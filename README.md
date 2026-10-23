@@ -7,7 +7,7 @@ A front-end portfolio project about the AirPods lineup: a dark-first, Apple-insp
 ![JavaScript](https://img.shields.io/badge/JavaScript-161618?style=flat&logo=javascript&logoColor=white)
 ![Dependencies](https://img.shields.io/badge/dependencies-none-0071e3?style=flat)
 
-![Hero](docs/screenshots/hero.png)
+![Hero](docs/screenshots/hero.jpg)
 
 ## Highlights
 
@@ -24,11 +24,11 @@ A front-end portfolio project about the AirPods lineup: a dark-first, Apple-insp
 
 **Product cards**
 
-![Cards](docs/screenshots/cards.png)
+![Cards](docs/screenshots/cards.jpg)
 
 **Footer**
 
-![Footer](docs/screenshots/footer.png)
+![Footer](docs/screenshots/footer.jpg)
 
 ## Project structure
 
