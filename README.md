@@ -22,13 +22,13 @@ A front-end portfolio project about the AirPods lineup: a dark-first, Apple-insp
 
 ## Screenshots
 
-| Product cards | Compare table |
-| :---: | :---: |
-| ![Cards](docs/screenshots/cards.png) | ![Compare](docs/screenshots/compare.png) |
+**Product cards**
 
-| Light theme | Mobile |
-| :---: | :---: |
-| ![Light theme](docs/screenshots/light.png) | ![Mobile](docs/screenshots/mobile.png) |
+![Cards](docs/screenshots/cards.png)
+
+**Footer**
+
+![Footer](docs/screenshots/footer.png)
 
 ## Project structure
 
